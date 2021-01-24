@@ -143,3 +143,11 @@ Sebagai contoh jika bingung:
 5. Selesai. Sekarang anda bisa mencoba atau memakai aplikasi E-survei ANRI ini dengan aman, dan nyaman.
 
 # Panduan Penggunaan
+
+# Peran Pengguna
+
+1. <b>Admin:</b> Pengguna dengan akses ke seluruh aplikasi, termasuk konfigurasi situs, manajemen pengguna, dan semua formulir.
+
+2. <b>Pengguna Dasar:</b> Pengguna yang dapat mengakses aplikasi tetapi tidak memiliki akses ke informasi apa pun. Anda harus memberikan akses ke satu atau beberapa formulir agar dia dapat melihat informasi tersebut. Namun, dalam kasus apa pun, pengguna bisa membuat atau mengelola formulir, Templat, tema, pengguna atau konfigurasi situs. Peran ini dibuat untuk memungkinkan pelanggan Anda tidak hanya mendapatkan pemberitahuan di email mereka, tetapi juga mengakses "Survei ANRI" untuk mendapatkan informasi lebih lanjut.
+
+3. <b>Pengguna Tingkat Lanjut:</b> Pengguna tingkat lanjut dapat membuat formulir dan mengelolanya dengan bebas. Dan juga mereka akan dapat membuat tema mereka sendiri dan menggunakannya dalam bentuk mereka. Selain itu, mereka dapat mengakses Manajer Template untuk membuat template mereka sendiri dan menggunakan template yang dibuat oleh administrator.

@@ -145,3 +145,11 @@ For example, if you are confused:
 <hr>
 
 # Panduan Penggunaan
+
+# User Roles
+
+1. <b>Admin:</b> A user with access to the entire application, including site configuration, user management and all forms.
+
+2. <b>Basic User:</b> A user who can access the application but do not have access to any information. You should grant access to one or more forms in order to let him see the information. However, in any case, a user can create or manage forms, templates, themes, users or site configuration. This role has been created to allow your customers not only get notifications in their emails, but also access "Survei ANRI" to get more information.
+
+3. <b>Advanced User:</b> Advanced users can create forms and manage them freely. And also they will be able to create their own themes and use them in their forms. Moreover, they can access the Template Manager to create their own templates and use templates created by administrators.
