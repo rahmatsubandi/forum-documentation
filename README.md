@@ -77,6 +77,24 @@ Berkas Source Code pada seluruh aplikasi ini tersedia di Repo GitHub khusus yang
 
    - Pada bagian pertama terdapat pilihan bahasa, biarkan saja dengan defaultnya, yaitu English. Klik tombol <b>'Save and continue'</b>
 
+   > <i>Jika mengalami error seperti gambar dibawah ini:
+   >
+   > ![Error](/images/error.jpg) </i>
+
+   Maka perlu melakukan/menjalan 3 perintah dibawah ini di dalam terminal:
+
+   ```
+    chmod -R 755 nama-file
+   ```
+
+   ```
+    chown apache:apache nama-file
+   ```
+
+   ```
+    chown -R apache:apache nama-file
+   ```
+
    - Lalu pada bagian ini installer akan mengecek persyaratan apa saja yang dibutuhkan, jika semua persyaratan memenuhi, seluruh tabel akan berwarna hijau, seperti gambar dibawah ini:
      ![Verify requirements](/images/verify-req.png)
      Jika semua-nya hijau Klik tombol <b>'Continue'</b>
